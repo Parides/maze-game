@@ -1,2 +1,6 @@
-# maze-game
-Text based (console) maze game for UOR Year 1 CS Degree
+# Maze Game
+Text Based Maze Game (CONSOLE)
+Made by Andreas Parides
+University of Reading Final Programming Project 
+Computer Science
+Year 1
